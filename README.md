@@ -1,4 +1,7 @@
 # Emotion Detection Using CNN
+![WhatsApp Image 2025-02-13 at 14 03 03](https://github.com/user-attachments/assets/e5570c2c-89f9-41ad-bd41-ef415b265250)
+
+
 ## Overview
 This project implements real-time emotion detection using a Convolutional Neural Network (CNN) and OpenCV. The model detects human faces and classifies their emotions into seven categories:
 
